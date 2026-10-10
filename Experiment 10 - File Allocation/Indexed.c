@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("25071A6217\n");
+    printf("25071A6211\n");
     int disk[50] = {0}, idx, n, b[20], alloc = 1;
     printf("Enter index block: "); scanf("%d", &idx);
     printf("Enter number of blocks and block numbers: "); scanf("%d", &n);
